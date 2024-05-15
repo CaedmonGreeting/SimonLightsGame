@@ -1,4 +1,3 @@
-alert ("game working");
 let gamePattern = [];
 let buttonColors = ["red", "blue", "green", "yellow"];
 let userClickedPattern = [];
